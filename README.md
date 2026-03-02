@@ -14,6 +14,7 @@ Neste projeto, você encontrará implementações que utilizam os pilares essenc
 * **Operadores:** Uso de lógica aritmética, relacional e lógica booleana para processamento de informações.
 * **Estruturas de Decisão:** Implementação de fluxos condicionais (`if/else`, `switch/case`) para controle de cenários.
 * **Laços de Repetição:** Automação de tarefas e iteração sobre dados utilizando `for`, `while` ou `do-while`.
+* **Funções:** Encapsulamento de lógica, reutilização de código e separação de responsabilidades.
 
 ---
 
@@ -21,14 +22,16 @@ Neste projeto, você encontrará implementações que utilizam os pilares essenc
 
 Os códigos aqui presentes refletem meu progresso em:
 1.  **Entender o problema** (Input)
-2.  **Processar a informação** (Lógica/Algoritmo)
+2.  **Processar a informação** (Lógica/Algoritmo/Funções)
 3.  **Entregar o resultado** (Output)
+
 
 ---
 
 ## 📁 Estrutura de Pastas
 
-* `Desafio - Classificador de Nível de Herói`: Desafio inicial para colocar em prática o uso de variáveis, operadores, estruturas de decisão e laços de repetição.
+* `Desafio - Classificador de Nível de Herói`: Desafio (desafio1.js) para colocar em prática o uso de variáveis, operadores, estruturas de decisão e laços de repetição.
+* `Desafio -  Calculadora de Partidas Rankeadas`: Desafio (desafio2.js) para colocar em prática o uso de variáveis, operadores, estruturas de decisão, laços de repetição e funcções
 
 ---
 
